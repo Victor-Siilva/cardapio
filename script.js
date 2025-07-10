@@ -196,6 +196,6 @@ checkoutBtn.addEventListener("click", function(){
         spanItem.classList.remove("bg-red-500");
         spanItem.classList.add("bg-green-600")
     }else{
-        spanItem.classList.add("bg-green-600");
-        spanItem.classList.remove("bg-red-500")
+        spanItem.classList.add("bg-red-500");
+        spanItem.classList.remove("bg-green-600")
     }
