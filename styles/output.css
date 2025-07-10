@@ -717,11 +717,6 @@ video {
   border-width: 2px;
 }
 
-.border-red-500 {
-  --tw-border-opacity: 1;
-  border-color: rgb(239 68 68 / var(--tw-border-opacity, 1));
-}
-
 .bg-black\/60 {
   background-color: rgb(0 0 0 / 0.6);
 }
@@ -863,7 +858,7 @@ video {
 }
 
 body {
-  background-color: #8b9ac0;
+  background-color: #eff6fa;
 }
 
 .hover\:rotate-2:hover {
